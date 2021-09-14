@@ -65,7 +65,7 @@ nav ul li {
   background-position: center;
 }
 
-/* content */
+/* main */
 
 .float-left {
   float: left;
@@ -77,7 +77,7 @@ nav ul li {
   margin-left: 25px;
 }
 
-.content {
+main {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
@@ -92,11 +92,11 @@ nav ul li {
   color: #ffffff;
 }
 
-.content img {
+main img {
   max-height: 200px;
 }
 
-.content h2 {
+main h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
